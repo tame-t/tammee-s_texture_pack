@@ -1,5 +1,5 @@
 # This texture pack is made for survival, SMP, and PVP gameplay. 
-# It includes many qualities of life changes to how the game looks, mainly for. 
+# It includes many qualities of life changes to how the game looks, mainly for PVP purposes. 
 # Game version support: 1.21.10 to 1.21.11 fabric, I have not tested it on anything other than fabric.
 # I will update the texture pack when new versions are released.
 
