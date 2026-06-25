@@ -2,7 +2,7 @@
 
 <img src="pack.png" alt="Tammee's Texture Pack" width="64">
 
-# Tammee's Texture Pack
+# tammee's Texture Pack
 
 A quality-of-life resource pack for Minecraft Java Edition — built for survival, SMP, and PVP, but also keeping the vanilla look of the game!
 
@@ -42,7 +42,7 @@ Uses overlays to handle version differences automatically — no manual switchin
 
 ---
 
-## Installation
+## How to use
 
 > Requires **Minecraft Java Edition 1.20.5** or newer.
 
