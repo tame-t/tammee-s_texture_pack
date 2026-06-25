@@ -9,7 +9,7 @@ A quality-of-life resource pack for Minecraft Java Edition — built for surviva
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.5%E2%80%931.26.2-62b47a?style=flat-square)](https://minecraft.net)
 [![Pack Format](https://img.shields.io/badge/Pack%20Format-34%2B-orange?style=flat-square)](pack.mcmeta)
 [![Based on Vanilla Tweaks](https://img.shields.io/badge/Based%20on-Vanilla%20Tweaks-8b4513?style=flat-square)](https://vanillatweaks.net)
-[![MIT License](https://img.shields.io/badge/License-Custom-blue?style=flat-square)](LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
 </div>
 
