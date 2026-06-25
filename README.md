@@ -4,7 +4,7 @@
 
 # Tammee's Texture Pack
 
-A quality-of-life resource pack for Minecraft Java Edition — built for survival, SMP, and PVP with a focus on visual clarity.
+A quality-of-life resource pack for Minecraft Java Edition — built for survival, SMP, and PVP, and keeping the vanilla look of the game!
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.5%E2%80%931.26.2-62b47a?style=flat-square)](https://minecraft.net)
 [![Pack Format](https://img.shields.io/badge/Pack%20Format-34%2B-orange?style=flat-square)](pack.mcmeta)
@@ -19,13 +19,14 @@ A quality-of-life resource pack for Minecraft Java Edition — built for surviva
 
 | | Category | Description |
 |---|---|---|
-| ⚔️ | **Swords** | Custom textures for all sword types (wood through netherite + copper) |
-| ⛏️ | **Ores** | Distinct ore textures for all types, including deepslate variants |
-| 🖥️ | **GUI** | Cleaner inventory, container, and crafting UIs |
+| ⚔️ | **Swords** | Custom textures for all sword types improving pvp (wood through netherite + copper) |
+| ⛏️ | **Ores** | Ore out line textures for all types, including deepslate variants and nether ores |
+| 🖥️ | **GUI** | Cleaner inventory, dark mode UI, and potion brewing instructions |
 | 🌾 | **Crops** | Updated growth stage textures (carrots, potatoes, wheat, beetroot) |
 | 🧱 | **Blocks** | Select block updates (wool colors, saplings, flowers, and more) |
-| ✨ | **Particles** | Custom totem of undying particle effect |
-| 🔊 | **Sounds** | Custom sound overrides |
+| ✨ | **Particles** | smaller totem of undying, and less totem pop particle effect, making it good for pvp |
+| 🔊 | **Sounds** | Custom sound overrides that limits cave and rain sounds |
+| 👉 | **There is more** | This pack is made for pvp, and inculde much more usefull changes to the game! |
 
 ---
 
