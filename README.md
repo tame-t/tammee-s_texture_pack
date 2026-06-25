@@ -61,7 +61,7 @@ Uses overlays to handle version differences automatically — no manual switchin
 
 ## Credits
 
-Built primarily from [Vanilla Tweaks](https://vanillatweaks.net) with additional community packs mixed in. Credit goes to all original authors.
+Built from [Vanilla Tweaks](https://vanillatweaks.net) with more community packs mixed in for pvp textures. Credit goes to all original pack authors.
 
 ## License
 
