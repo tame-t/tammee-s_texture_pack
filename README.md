@@ -9,8 +9,8 @@ A quality-of-life resource pack for Minecraft Java Edition — built for surviva
 <img src="preview.png" alt="texture pack preview">
 
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21%E2%80%9326.2-62b47a?style=flat-square)](https://minecraft.net)
-[![Pack Format](https://img.shields.io/badge/Pack%20Format-34%2B-orange?style=flat-square)](pack.mcmeta)
+[![Minecraft](https://img.shields.io/badge/Minecraft-26.1%E2%80%9326.2-62b47a?style=flat-square)](https://minecraft.net)
+[![Pack Format](https://img.shields.io/badge/Pack%20Format-84%E2%80%9388-orange?style=flat-square)](pack.mcmeta)
 [![Based on Vanilla Tweaks](https://img.shields.io/badge/Based%20on-Vanilla%20Tweaks-8b4513?style=flat-square)](https://vanillatweaks.net)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
@@ -39,15 +39,14 @@ Uses overlays to handle version differences automatically — no manual switchin
 
 | Minecraft Version | Pack Format | Status |
 |---|---|---|
-| 1.26.2 | latest | ✅ Supported |
-| 1.21.x | 42 – 75 | ✅ Supported |
-| 1.20.5 – 1.20.6 | 34 | ✅ Supported |
+| 26.2 | 88 | ✅ Supported |
+| 26.1 – 26.1.2 | 84 | ✅ Supported |
 
 ---
 
 ## How to use
 
-> Requires **Minecraft Java Edition 1.20.5** or newer.
+> Requires **Minecraft Java Edition 26.1** or newer.
 
 1. **Download** the `.zip` from the releases page
 2. **Place** the `.zip` (do **extract** it) (make sure there **no double directorys**) put it into your `resourcepacks` folder:
