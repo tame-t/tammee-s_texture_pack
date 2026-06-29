@@ -1,7 +1,7 @@
 # This texture pack is made for survival, SMP, and PVP gameplay. 
 # It includes many qualities of life changes to how the game looks, mainly for PVP purposes. 
 # Game version support: 26.1 to 26.2
-# I will update the texture pack when new versions are released.
+# I will update the texture pack every now and then when new versions are released.
 
 
 # This pack is made by combining a bunch of other packs, with vanilla tweaks being the majority. 
