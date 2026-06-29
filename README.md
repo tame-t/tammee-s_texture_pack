@@ -6,7 +6,7 @@
 
 A quality-of-life resource pack for Minecraft Java Edition — built for survival, SMP, and PVP, but also keeping the vanilla look of the game!
 
-<img src="preview" alt="texture pack preview">
+<img src="preview.png" alt="texture pack preview">
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21%E2%80%9326.2-62b47a?style=flat-square)](https://minecraft.net)
 [![Pack Format](https://img.shields.io/badge/Pack%20Format-34%2B-orange?style=flat-square)](pack.mcmeta)
