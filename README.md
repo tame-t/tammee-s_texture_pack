@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="pack.png" alt="Tammee's Texture Pack" width="64">
+<img src="pack.png" alt="tammee's texture pack" width="64">
 
 # tammee's Texture Pack
 
 A quality-of-life resource pack for Minecraft Java Edition — built for survival, SMP, and PVP, but also keeping the vanilla look of the game!
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.5%E2%80%9326.2-62b47a?style=flat-square)](https://minecraft.net)
+<img src="preview" alt="texture pack preview">
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21%E2%80%9326.2-62b47a?style=flat-square)](https://minecraft.net)
 [![Pack Format](https://img.shields.io/badge/Pack%20Format-34%2B-orange?style=flat-square)](pack.mcmeta)
 [![Based on Vanilla Tweaks](https://img.shields.io/badge/Based%20on-Vanilla%20Tweaks-8b4513?style=flat-square)](https://vanillatweaks.net)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
