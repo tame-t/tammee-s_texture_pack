@@ -24,7 +24,7 @@ A quality-of-life resource pack for Minecraft Java Edition — built for surviva
 | 🖥️ | **GUI** | Cleaner inventory, dark mode UI, and potion brewing instructions |
 | 🌾 | **Crops** | Updated growth stage textures (carrots, potatoes, wheat, beetroot) |
 | 🧱 | **Blocks** | Select block updates (wool colors, saplings, flowers, and more) |
-| ✨ | **Particles** | smaller totem of undying, and less totem pop particle effect, making it good for pvp |
+| ✨ | **Particles** | Smaller totem of undying, and less totem pop particle effect, making it good for pvp |
 | 🔊 | **Sounds** | Custom sound overrides that limits cave and rain sounds |
 | 👉 | **There is more** | This pack is made for pvp, and inculde much more usefull changes to the game! |
 
