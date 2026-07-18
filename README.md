@@ -49,7 +49,8 @@ Uses overlays to handle version differences automatically — no manual switchin
 > Requires **Minecraft Java Edition 26.1** or newer.
 
 1. **Download** the `.zip` from the releases page
-2. **Place** the `.zip` (make sure there **no double directorys**) put it into your `resourcepacks` folder:
+2. **Unzip** the `.zip` file
+3. **Place** the file in to you minecraft resourcepacks directory(make sure there **no double directorys**) put it into your `resourcepacks` folder:
 
    | OS | Path |
    |---|---|
