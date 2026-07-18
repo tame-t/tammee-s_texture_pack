@@ -50,7 +50,8 @@ Uses overlays to handle version differences automatically — no manual switchin
 
 1. **Download** the `.zip` from the releases page
 2. **Unzip** the `.zip` file
-3. **Place** the file in to you minecraft resourcepacks directory (make sure there **no double directorys**) put it into your `resourcepacks` folder:
+3. **Place** the extracted file in to you minecraft resourcepacks directory put it into your `resourcepacks` folder.
+4. make sure there **no double directorys** click in to the tammee-texturepack file to check this, if there is another texture pack file inside then mod it to /minecraft/resorcespacks.
 
    | OS | Path |
    |---|---|
